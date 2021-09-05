@@ -15,20 +15,23 @@ This app generates a README file, based on user input. It was designed to allow 
 
 ## Installation
 
-Here is the link to the Github repository: (undefined)
-Here is the link to the deployed application: (undefined)
+Here is the link to the Github repository: https://github.com/ConScorn/readme-generator
+Here is the link to the deployed application: N/A
 
 ## Usage
 
-open it
+First, clone the repository into your code editor on your local machine.
+Then, open the project folder in the integrated terminal.
+Next, enter 'node index' into the terminal.
+Finally, answer the prompts given inside the terminal, and your README will be automatically generated.
 
 ## Tests
 
-undefined
+There were no tests for this project.
 
 ## Contributions
 
-
+At this moment, the project has reached completion.
 
 ## License
 
@@ -36,4 +39,4 @@ MIT
 
 ## Questions
 
-Here is a link to my GitHub profile: https://github.com/ConScorn. Otherwise, you can email me at: test@test.com
+Here is a link to my GitHub profile: https://github.com/ConScorn. Otherwise, you can email me at: connorscorn@hotmail.com

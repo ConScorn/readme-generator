@@ -62,7 +62,7 @@ inquirer
         {
             type: 'input',
             name: 'repoLink',
-            message: 'Enter the link to your gitHub repository here:'
+            message: 'Enter the link to your GitHub repository here:'
         },
         {
             type: 'input',
