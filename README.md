@@ -1,8 +1,12 @@
-# README generator
+# readme-generator
      
 ## Description
 
 This app generates a README file, based on user input. It was designed to allow developers to quickly create effective README files without devoting large amounts of time.
+
+## Video Demostration
+
+View the video demonstration here: https://drive.google.com/file/d/1XnRwGL3AuxxYz9g5vDs7dkQFrCObdGRv/view
 
 ## Table of Contents
 

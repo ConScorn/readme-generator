@@ -21,8 +21,8 @@ ${answers.desc}
 
 ## Installation
 
-Here is the link to the Github repository: (${answers.repolink})
-Here is the link to the deployed application: (${answers.deploylink})
+Here is the link to the Github repository: (${answers.repoLink})
+Here is the link to the deployed application: (${answers.deployLink})
 
 ## Usage
 
@@ -30,7 +30,7 @@ ${answers.usage}
 
 ## Tests
 
-${answers.test}
+${answers.tests}
 
 ## Contributions
 
