@@ -1,12 +1,8 @@
-# readme-generator
+# Note-taker
      
 ## Description
 
-This app generates a README file, based on user input. It was designed to allow developers to quickly create effective README files without devoting large amounts of time.
-
-## Video Demostration
-
-View the video demonstration here: https://drive.google.com/file/d/1XnRwGL3AuxxYz9g5vDs7dkQFrCObdGRv/view
+Note-taker is an app that allows you to take notes, save them for later, and delete them at any time. It is my first full-stack application, and I built it to further my understanding of backend development.
 
 ## Table of Contents
 
@@ -19,23 +15,20 @@ View the video demonstration here: https://drive.google.com/file/d/1XnRwGL3AuxxY
 
 ## Installation
 
-Here is the link to the Github repository: https://github.com/ConScorn/readme-generator
-Here is the link to the deployed application: N/A
+Here is the link to the Github repository: (https://github.com/ConScorn/Note-Taker)
+Here is the link to the deployed application: (https://note-taker-c.herokuapp.com/)
 
 ## Usage
 
-First, clone the repository into your code editor on your local machine.
-Then, open the project folder in the integrated terminal.
-Next, enter 'node index' into the terminal.
-Finally, answer the prompts given inside the terminal, and your README will be automatically generated.
+Navigate to the deployed application through the link. Once there, click 'Get Started', and write in any notes you would like. Once you have typed a note, click on the 'save' icon in the top-right, in the navbar. If you would like to remove a past note, click on the delete icon for that note.
 
 ## Tests
 
-There were no tests for this project.
+There were no tests for this app.
 
 ## Contributions
 
-At this moment, the project has reached completion.
+Not at the moment.
 
 ## License
 
