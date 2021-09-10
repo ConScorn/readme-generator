@@ -1,8 +1,12 @@
-# Note-taker
-     
+# README generator
+
 ## Description
 
-Note-taker is an app that allows you to take notes, save them for later, and delete them at any time. It is my first full-stack application, and I built it to further my understanding of backend development.
+This app generates a README file, based on user input. It was designed to allow developers to quickly create effective README files without devoting large amounts of time.
+
+## Video Demostration
+
+View the video demonstration here: https://drive.google.com/file/d/1XnRwGL3AuxxYz9g5vDs7dkQFrCObdGRv/view
 
 ## Table of Contents
 
@@ -12,28 +16,19 @@ Note-taker is an app that allows you to take notes, save them for later, and del
 - [Contributions](#contributions)
 - [License](#license)
 - [Questions](#questions)
-
 ## Installation
-
-Here is the link to the Github repository: (https://github.com/ConScorn/Note-Taker)
-Here is the link to the deployed application: (https://note-taker-c.herokuapp.com/)
-
+Here is the link to the Github repository: https://github.com/ConScorn/readme-generator
+Here is the link to the deployed application: N/A
 ## Usage
-
-Navigate to the deployed application through the link. Once there, click 'Get Started', and write in any notes you would like. Once you have typed a note, click on the 'save' icon in the top-right, in the navbar. If you would like to remove a past note, click on the delete icon for that note.
-
+First, clone the repository into your code editor on your local machine.
+Then, open the project folder in the integrated terminal.
+Next, enter 'node index' into the terminal.
+Finally, answer the prompts given inside the terminal, and your README will be automatically generated.
 ## Tests
-
-There were no tests for this app.
-
+There were no tests for this project.
 ## Contributions
-
-Not at the moment.
-
+At this moment, the project has reached completion.
 ## License
-
 MIT
-
 ## Questions
-
 Here is a link to my GitHub profile: https://github.com/ConScorn. Otherwise, you can email me at: connorscorn@hotmail.com
